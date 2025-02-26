@@ -19,7 +19,7 @@ The dataset contains information about students' performance in mathematics, inc
 - `Subtopic`
 - `Keywords`
   
-The dataset file is included in this repository as `MathE dataset (4).csv`.
+The dataset file is included in this repository as [mathE_dataset.csv](mathE_dataset.csv).
 
 ## Preprocessing Steps
 
